@@ -13,5 +13,5 @@ def link
 end
 
 def all_phrases(phrase)
-  puts phrase
+  phrase
 end
